@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Android Emulator",
+      "type": "shell",
+      "command": "C:\\Users\\V\\AppData\\Local\\Android\\Sdk\\emulator\\emulator @Pixel_3_API_28",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
